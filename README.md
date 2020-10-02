@@ -1,18 +1,19 @@
-#README
-#Horiseon revision
+# Horiseon revision
 
-add .hero with background image (horiseonImages\digital-marketing-meeting.jpg)
+The client wanted to optimize web accessibility 
 
-dissected and read code
+I added the .hero background with the horiseonImages\digital-marketing-meeting.jpg
 
-deployed in browser
+fixed an issue with the images loading from mac to PC
 
-images downloaded and redeployed 
+tested all buttons and links 
 
-fixed syntax error between mac and windows
+updated the year on the website to proper year of redeployment
 
-checked for proper indentation
+add specific P tags for "content" "benefits" "footer"
 
-updated the date to proper year of redeployment
+changed color scheme to highlight headers 
 
-uploaded to github
+## Contributing
+Pull requests are welcome. as i am a student and always looking to learn new fixes.
+
